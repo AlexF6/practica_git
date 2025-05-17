@@ -1,0 +1,12 @@
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\bin\Debug\net8.0\lib_aplicaciones.deps.json
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\bin\Debug\net8.0\lib_aplicaciones.dll
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\bin\Debug\net8.0\lib_aplicaciones.pdb
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.AssemblyInfoInputs.cache
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.AssemblyInfo.cs
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.sourcelink.json
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.dll
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\refint\lib_aplicaciones.dll
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.pdb
+C:\Users\perol\Desktop\Dev\practica_taller\practica_git\aeropuerto\lib_aplicaciones\obj\Debug\net8.0\ref\lib_aplicaciones.dll
