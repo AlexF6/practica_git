@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\interfaces\\ipilotosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\ipilotosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\interfaces\\iavionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iavionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\implementaciones\\pilotosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\pilotosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\implementaciones\\avionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\avionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\entidades\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\lib_aplicaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\lib_aplicaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2261DB0A-B4DB-4065-992C-37F47C485830}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\lib_repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2261DB0A-B4DB-4065-992C-37F47C485830}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\lib_repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2261DB0A-B4DB-4065-992C-37F47C485830}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{2261DB0A-B4DB-4065-992C-37F47C485830}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\entidades\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\entidades\\pilotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2261DB0A-B4DB-4065-992C-37F47C485830}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2261DB0A-B4DB-4065-992C-37F47C485830}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,57 +62,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPilotosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Interfaces\\IPilotosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IPilotosAplicacion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Interfaces\\IPilotosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IPilotosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:37:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Script.sql ",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Script.sql",
-              "RelativeToolTip": "lib_repositorios\\Script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-17T22:29:57.037Z",
+              "Title": "IAvionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Interfaces\\IAvionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAvionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Interfaces\\IAvionesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAvionesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:36:45.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:35:32.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PilotosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Implementaciones\\PilotosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\PilotosAplicacion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Implementaciones\\PilotosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\PilotosAplicacion.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:35:14.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IConexion.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Interfaces\\IConexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:24:06.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Implementaciones\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:22:31.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lib_repositorios",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\lib_repositorios.csproj",
-              "RelativeDocumentMoniker": "lib_repositorios\\lib_repositorios.csproj",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\lib_repositorios.csproj",
-              "RelativeToolTip": "lib_repositorios\\lib_repositorios.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "lib_aplicaciones",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\lib_aplicaciones.csproj",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\lib_aplicaciones.csproj",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\lib_aplicaciones.csproj",
+              "RelativeToolTip": "lib_aplicaciones\\lib_aplicaciones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T22:21:43.231Z",
+              "WhenOpened": "2025-05-17T22:34:29.7Z",
               "EditorCaption": ""
             },
             {
@@ -109,7 +139,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:22:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lib_repositorios.csproj",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\lib_repositorios.csproj",
+              "RelativeDocumentMoniker": "lib_repositorios\\lib_repositorios.csproj",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\lib_repositorios.csproj",
+              "RelativeToolTip": "lib_repositorios\\lib_repositorios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T22:21:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Aviones.cs",
               "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Entidades\\Aviones.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Aviones.cs",
@@ -122,7 +177,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:24:06.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Script.sql",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_repositorios\\Script.sql",
+              "RelativeToolTip": "lib_repositorios\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-17T22:29:57.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Pilotos.cs",
               "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Entidades\\Pilotos.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Pilotos.cs",
@@ -130,12 +208,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Pilotos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:19:27.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T21:19:27.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "DatosGenerales.cs",
               "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Nucleo\\DatosGenerales.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
@@ -143,12 +220,11 @@
               "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:17:50.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T21:17:50.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "lib_dominio.csproj",
               "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\lib_dominio.csproj",
               "RelativeDocumentMoniker": "lib_dominio\\lib_dominio.csproj",
@@ -156,8 +232,7 @@
               "RelativeToolTip": "lib_dominio\\lib_dominio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-17T21:16:29.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T21:16:29.746Z"
             }
           ]
         }
