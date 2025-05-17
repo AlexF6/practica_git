@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class PilotosAplicacion : Interfaces.IPilotosAplicacion
+    public class PilotosAplicacion : IPilotosAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -54,12 +54,12 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.Pilotos!.Take(20).ToList();
         }
 
-        //public List<Pilotos> PorCodigo(Pilotos? entidad)
-        //{
-        //    return this.IConexion!.Pilotos!
-        //        .Where(x => x.Codigo!.Contains(entidad!.Codigo!))
-        //        .ToList();
-        //}
+        public List<Pilotos> PorCodigo(Pilotos? entidad)
+        {
+            return this.IConexion!.Pilotos!
+                .Where(x => x.Cedula!.Contains(entidad!.Cedula!))
+                .ToList();
+        }
 
         public Pilotos? Modificar(Pilotos? entidad)
         {

@@ -43,20 +43,27 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbYaSeGuardo");
 
             // Calculos
+
+            this.IConexion!.Aviones!.Add(entidad);
+            this.IConexion.SaveChanges();
             return entidad;
         }
 
         public List<Aviones> Listar()
         {
-            return this.IConexion!.Aviones!.Take(20).ToList();
+            return this.IConexion!.Aviones!
+                .Take(20)
+                .Include(x => x._Piloto)
+                .ToList();
         }
 
-        //public List<Aviones> PorNombre(Aviones? entidad)
-        //{
-        //    return this.IConexion!.Aviones!
-        //        .Where(x => x.Nombre!.Contains(entidad!.Nombre!))
-        //        .ToList();
-        //}
+        public List<Aviones> PorCodigo(Aviones? entidad)
+        {
+            return this.IConexion!.Aviones!
+                .Where(x => x.Codigo!.Contains(entidad!.Codigo!))
+                .Include(x => x._Piloto)
+                .ToList();
+        }
 
         public Aviones? Modificar(Aviones? entidad)
         {
