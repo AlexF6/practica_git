@@ -3,100 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{321E8EDA-7B64-4F93-AF91-772302F47D0D}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321E8EDA-7B64-4F93-AF91-772302F47D0D}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\entidades\\pilotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\pilotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\entidades\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046DAB26-A8AF-43B7-A4AB-F0BD3431C122}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\aviones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\ventanas\\pilotos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\pilotos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\emergentes\\mensajes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\ventanas\\pilotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\pilotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\asp_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\asp_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\asp_presentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\asp_presentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292774B1-F450-42FB-BB64-EECB971A32E0}|asp_servicios\\asp_servicios.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{292774B1-F450-42FB-BB64-EECB971A32E0}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292774B1-F450-42FB-BB64-EECB971A32E0}|asp_servicios\\asp_servicios.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{292774B1-F450-42FB-BB64-EECB971A32E0}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321E8EDA-7B64-4F93-AF91-772302F47D0D}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_presentaciones\\implementaciones\\pilotospresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321E8EDA-7B64-4F93-AF91-772302F47D0D}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\pilotospresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\implementaciones\\avionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A4DC89-0B87-4539-96D6-186960DE9675}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\avionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{203ECE8C-A5A3-407C-A253-5C8A5C11A12A}|Elementos de la soluci\u00F3n{203ECE8C-A5A3-407C-A253-5C8A5C11A12A}|C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{203ECE8C-A5A3-407C-A253-5C8A5C11A12A}|Elementos de la soluci\u00F3n{203ECE8C-A5A3-407C-A253-5C8A5C11A12A}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E10292ED-B365-4D27-8DE8-CEBE03FC8335}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pilotos.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Entidades\\Pilotos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Pilotos.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Entidades\\Pilotos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Pilotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:33:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aviones.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Entidades\\Aviones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Aviones.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_dominio\\Entidades\\Aviones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Aviones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:33:08.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:32:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Index.cshtml",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T23:32:10.611Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -115,316 +87,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Comunicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_presentaciones\\Comunicaciones.cs",
-              "RelativeDocumentMoniker": "lib_presentaciones\\Comunicaciones.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_presentaciones\\Comunicaciones.cs",
-              "RelativeToolTip": "lib_presentaciones\\Comunicaciones.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAIwIcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T06:35:46.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T06:23:20.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T06:23:16.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T06:17:09.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "asp_presentacion\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Properties\\launchSettings.json",
-              "RelativeToolTip": "asp_presentacion\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T06:15:41.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T05:34:37.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Mensajes.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Emergentes\\Mensajes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T05:34:36.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pilotos.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml.cs",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml.cs",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAuwHsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:02:57.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\appsettings.json",
-              "RelativeDocumentMoniker": "asp_presentacion\\appsettings.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\appsettings.json",
-              "RelativeToolTip": "asp_presentacion\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T06:14:47.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "asp_presentacion\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\appsettings.Development.json",
-              "RelativeToolTip": "asp_presentacion\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T06:14:59.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pilotos.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Pilotos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T04:53:49.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Program.cs",
-              "RelativeDocumentMoniker": "asp_presentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Program.cs",
-              "RelativeToolTip": "asp_presentacion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T06:02:01.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LICENSE.txt",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\lib\\jquery\\LICENSE.txt",
-              "RelativeDocumentMoniker": "asp_presentacion\\wwwroot\\lib\\jquery\\LICENSE.txt",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\lib\\jquery\\LICENSE.txt",
-              "RelativeToolTip": "asp_presentacion\\wwwroot\\lib\\jquery\\LICENSE.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-18T06:13:26.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LICENSE",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\lib\\bootstrap\\LICENSE",
-              "RelativeDocumentMoniker": "asp_presentacion\\wwwroot\\lib\\bootstrap\\LICENSE",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\lib\\bootstrap\\LICENSE",
-              "RelativeToolTip": "asp_presentacion\\wwwroot\\lib\\bootstrap\\LICENSE",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-18T06:13:22.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\favicon.ico",
-              "RelativeDocumentMoniker": "asp_presentacion\\wwwroot\\favicon.ico",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "RelativeToolTip": "asp_presentacion\\wwwroot\\favicon.ico -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2025-05-18T06:13:09.754Z",
-              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Icon [32x32, 32 bits, BMP]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "asp_presentacion",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\asp_presentacion.csproj",
-              "RelativeDocumentMoniker": "asp_presentacion\\asp_presentacion.csproj",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\asp_presentacion.csproj",
-              "RelativeToolTip": "asp_presentacion\\asp_presentacion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T06:11:50.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "asp_presentacion",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\asp_presentacion.csproj",
-              "RelativeDocumentMoniker": "asp_presentacion\\asp_presentacion.csproj",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\asp_presentacion.csproj",
-              "RelativeToolTip": "asp_presentacion\\asp_presentacion.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T06:10:57.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "asp_presentacion\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T06:09:58.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Startup.cs",
-              "RelativeDocumentMoniker": "asp_presentacion\\Startup.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_presentacion\\Startup.cs",
-              "RelativeToolTip": "asp_presentacion\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T06:02:02.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_servicios\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "asp_servicios\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_servicios\\Properties\\launchSettings.json",
-              "RelativeToolTip": "asp_servicios\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T06:00:08.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AvionesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AvionesAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:58:40.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_servicios\\appsettings.json",
-              "RelativeDocumentMoniker": "asp_servicios\\appsettings.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\asp_servicios\\appsettings.json",
-              "RelativeToolTip": "asp_servicios\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T05:52:59.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PilotosPresentacion.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_presentaciones\\Implementaciones\\PilotosPresentacion.cs",
-              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\PilotosPresentacion.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\lib_presentaciones\\Implementaciones\\PilotosPresentacion.cs",
-              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\PilotosPresentacion.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAcwHQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T05:49:49.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\practica_taller\\practica_git\\aeropuerto\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-18T05:30:31.323Z",
-              "EditorCaption": ""
             }
           ]
         }
